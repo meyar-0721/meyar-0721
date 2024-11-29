@@ -21,8 +21,7 @@
 ---
 
 ### :man_technologist: About Me : 
-I am a Full Stack Developer |
-- :telescope: I’m working as a Data Analyst and contributing to data analysis.
+I am a Full Stack Developer 
 
 - :seedling: Exploring Technical Content Writing.
 
