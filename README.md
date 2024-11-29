@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDA5OWhicWxlbzR5Y3U4MXZ2MTRwb3duMjQ2NnRxdzRnMm0wamw1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjcxbXF4Nnp5dDRpc2I2OWxodTRnMnVubzJlYmp5Z2w3eTg5eDY3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/meyar-mobeen-87575a249/">
