@@ -21,9 +21,8 @@
 ---
 
 ### :man_technologist: About Me : 
-I am a Full Stack Developer 
-
-- :seedling: Exploring Technical Content Writing.
+Hi, I"m Mayar Mobeen, a Web developer.
+Feel free to check out my repositories and connect with me!
 
 - :zap: In my free time, I solve problems and trading crypto coin.
 
