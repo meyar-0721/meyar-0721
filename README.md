@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me : 
-Hi👋, I"m Mayar Mobeen, a Web developer
+Hi👋, I"m Mayar Mobeen, a Web developer.
 Feel free to check out my repositories and connect with me!
 
 - :zap: In my free time, I solve problems and trading crypto coin.
